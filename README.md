@@ -15,4 +15,4 @@ https://www.geeksforgeeks.org/introduction-to-arrays/<br />
 3. **_Array-də(minimum 5 element olsun) 2-yə bölünən elementlərin sayının çap edilməsi_** algorithmini qurun;
 4. **_Array-də(minimum 5 element olsun) elementlərdən ən azı 1-i n ədədindən böyükdürsə true əks halda false çap etmək_** algorithmi qurun;
 5. **_Array-in(minimum 5 element olsun) elementlərinin ən böyüyü və ən kiçiyi arasındakı fərqi çap edən_** algorithmi qurun;
-6. **__Array-dəki(minimum 5 element olsun) ən kiçik elementi və həmin elementin indeksini tapmaq_** algorithmi qurun;
+6. **_Array-dəki(minimum 5 element olsun) ən kiçik elementi və həmin elementin indeksini tapmaq_** algorithmi qurun;
